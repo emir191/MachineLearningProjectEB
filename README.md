@@ -23,4 +23,4 @@ Bu projede gözetimli öğrenme algoritmalarından doğrusal regresyon,gözetims
 ### PROJE LİNKİ
 https://www.kaggle.com/code/emirbahcaci/eb-mlprojecti
 ### DATASET
-https://www.kaggle.com/code/meeratif/bitcoin-price-prediction
+https://www.kaggle.com/datasets/novandraanugrah/bitcoin-historical-datasets-2018-2024
